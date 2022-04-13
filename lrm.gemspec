@@ -43,9 +43,9 @@ Gem::Specification.new do |s|
     s.homepage    = "https://www.lesli.dev"
     s.license     = "GPLv3"
 
-    spec.required_ruby_version = ">= 2.7"
+    s.required_ruby_version = ">= 2.7"
 
-    spec.metadata = {
+    s.metadata = {
         "homepage_uri" => "https://www.lesli.dev/gems/lrm",
         "changelog_uri" => "https://github.com/LesliTech/LRM/releases/tag/v#{s.version}",
         "source_code_uri" => "https://github.com/LesliTech/LRM",
